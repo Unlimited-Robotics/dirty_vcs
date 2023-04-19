@@ -11,10 +11,10 @@
     {
         "id":"",
         "name":"Docker",
-        "versionId":"1.0.1",
+        "versionId":"1.0.8",
         "platform":"ALL",
         "timeStamp":"",
-        "link":"gs://raya_files/Common/TestingVCS/raya_os_1.0.10.zip",
+        "link":"gs://raya_files/Common/TestingVCS/raya_os_1.0.1.zip",
         "checksum":"3e612f2966b5a751a37fd699cfb4a55a5d87738dc19076d49f27d66f48add84f"
     },
     {

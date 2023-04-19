@@ -11,7 +11,7 @@
     {
         "id":"",
         "name":"Docker",
-        "versionId":"1.0.8",
+        "versionId":"1.0.1",
         "platform":"ALL",
         "timeStamp":"",
         "link":"gs://raya_files/Common/TestingVCS/raya_os_1.0.1.zip",

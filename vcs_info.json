@@ -1,0 +1,29 @@
+[
+    {
+        "id":"",
+        "name":"SDK",
+        "versionId":"1.0.14",
+        "platform":"ALL",
+        "timeStamp":"",
+        "link":"-----",
+        "checksum":"-----"
+    },
+    {
+        "id":"",
+        "name":"Docker",
+        "versionId":"1.0.10",
+        "platform":"ALL",
+        "timeStamp":"",
+        "link":"gs://raya_files/Common/TestingVCS/raya_os_1.0.10.zip",
+        "checksum":"3e612f2966b5a751a37fd699cfb4a55a5d87738dc19076d49f27d66f48add84f"
+    },
+    {
+        "id":"",
+        "name":"Unity",
+        "versionId":"1.0.4",
+        "platform":"ALL",
+        "timeStamp":"",
+        "link":"https://storage.googleapis.com/raya_files/Linux/raya_simulator_1.0.4_linux.tar.gz",
+        "checksum":"ebb28416546d90cbdcce0813f988eb2ce5e9c90fc4e28a52e53b297ab4744df8"
+    }
+]

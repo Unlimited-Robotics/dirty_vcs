@@ -15,7 +15,7 @@
         "platform":"ALL",
         "timeStamp":"",
         "link":"unlimitedrobotics/raya_os.sim.prod",
-        "checksum":"3e612f2966b5a751a37fd699cfb4a55a5d87738dc19076d49f27d66f48add84f"
+        "checksum":"a34f436f47a7efc294494a3e0ef9bcbea712df2023e2f19d024aa41d9cb3fe51"
     },
     {
         "id":"",
@@ -24,6 +24,6 @@
         "platform":"ALL",
         "timeStamp":"",
         "link":"https://storage.googleapis.com/raya_files/Linux/dev/raya_simulator_1.2.4_linux.tar.gz",
-        "checksum":"ebb28416546d90cbdcce0813f988eb2ce5e9c90fc4e28a52e53b297ab4744df8"
+        "checksum":"39c4c5f0056714ea73114f747170971205ec70d808144e3a4ba540fabb519402"
     }
 ]

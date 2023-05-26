@@ -1,29 +1,19 @@
 [
     {
         "id":"",
-        "name":"SDK",
-        "versionId":"1.1.0.dev1",
-        "platform":"ALL",
-        "timeStamp":"",
-        "link":"-----",
-        "checksum":"-----"
-    },
-    {
-        "id":"",
         "name":"Docker",
-        "versionId":"1.3.1.dev5",
+        "versionId":"1.3.1.dev6",
         "platform":"ALL",
         "timeStamp":"",
-        "link":"unlimitedrobotics/raya_os.sim.prod",
-        "checksum":"a34f436f47a7efc294494a3e0ef9bcbea712df2023e2f19d024aa41d9cb3fe51"
+        "link":"unlimitedrobotics/raya_os.sim.prod"
     },
     {
         "id":"",
         "name":"Unity",
-        "versionId":"1.2.4",
+        "versionId":"1.2.5",
         "platform":"ALL",
         "timeStamp":"",
         "link":"https://storage.googleapis.com/raya_files/Linux/dev/raya_simulator_1.2.4_linux.tar.gz",
-        "checksum":"39c4c5f0056714ea73114f747170971205ec70d808144e3a4ba540fabb519402"
+        "checksum":"4c7ed96f81adf63071b1ce842a85e998b2e1d07252c53d564f05dde32e2d56ed"
     }
 ]

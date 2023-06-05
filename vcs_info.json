@@ -11,7 +11,7 @@
     {
         "id":"",
         "name":"Docker",
-        "versionId":"1.3.1.dev10",
+        "versionId":"3.4.2",
         "platform":"ALL",
         "timeStamp":"",
         "link":"unlimitedrobotics/raya_os.sim.prod"
